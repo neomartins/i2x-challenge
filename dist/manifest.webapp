@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "name": "I2x",
+  "launch_path": "/index.html",
+  "description": "I2x",
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "es",
+  "permissions": {
+  },
+  "locales": {
+    "es": {
+      "name": I2x",
+      "description": "I2x"
+    }
+  }
+}

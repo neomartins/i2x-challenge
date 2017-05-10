@@ -1,0 +1,25 @@
+{
+	"label":{
+		"appBar":{
+				"logout" : "Logout"
+			},
+
+		"login":{
+
+				"user" : "User Login",
+				"password" : "Password",
+				"invalid" : "User or Password Invalid"
+			},
+		"music" :{
+
+				"rating" : "Rating",
+				"date" : "Date : "
+			},
+		
+		"project":
+			{
+				"title":"i2x-challenge"
+			}
+		
+	}
+}

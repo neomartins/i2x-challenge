@@ -1,0 +1,6 @@
+{
+  "name": "I2X",
+  "short_name": "I2x",
+  "start_url": "/index.html",
+  "display": "standalone"
+}
