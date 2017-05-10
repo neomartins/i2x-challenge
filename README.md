@@ -9,4 +9,5 @@ open command prompt (cmd) go to path where you download the project, go inside  
 Run npm install gulp-gzip, and then run npm install should install all the depdencies 
 
 Deploy
+
 To deploy you just need to run gulp watch, and a web page will open.
