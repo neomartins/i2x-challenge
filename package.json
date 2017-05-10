@@ -5,6 +5,7 @@
   "main": "gulpfile.babel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "poststart": "npm prune --production",
     "start": "gulp serve",
     "prebuild": "gulp clean",
     "lint": "gulp lint",
